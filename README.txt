@@ -1,4 +1,5 @@
 Liftboy 1.0 README file:
+
 Author: Cristiano Fugazza (fugazza.c@irea.cnr.it)
 
 The executable JAR file is LiftingUI-1.0-SNAPSHOT.jar.
